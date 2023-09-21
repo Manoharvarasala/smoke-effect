@@ -63,15 +63,3 @@ h1 span:nth-child(5)
 {
     animation-delay: 2.7s;
 }
-h1 span:nth-child(6)
-{
-    animation-delay: 3.2s;
-}
-h1 span:nth-child(7)
-{
-    animation-delay: 3.7s;
-}
-h1 span:nth-child(8)
-{
-    animation-delay: 4s;
-}
